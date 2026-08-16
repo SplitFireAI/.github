@@ -16,13 +16,13 @@ Get SplitFire AI on your platform of choice:
   </a>
   &nbsp;&nbsp;
   <a href="https://play.google.com/store/apps/details?id=ai.splitfire.SplitFire" title="Get SplitFire AI on Google Play">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
          alt="Get it on Google Play"
          height="50" />
   </a>
   &nbsp;&nbsp;
   <a href="https://apps.microsoft.com/detail/9ng2kn8zzl1m?hl=en-US&gl=SE" title="Get SplitFire AI from the Microsoft Store">
-    <img src="https://get.microsoft.com/images/en-us%20dark.svg"
+    <img src="https://get.microsoft.com/images/en-us_dark.svg"
          alt="Get it from Microsoft"
          height="50" />
   </a>
