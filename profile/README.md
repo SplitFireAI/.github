@@ -22,7 +22,7 @@ Get SplitFire AI on your platform of choice:
   </a>
   &nbsp;&nbsp;
   <a href="https://apps.microsoft.com/detail/9ng2kn8zzl1m?hl=en-US&gl=SE" title="Get SplitFire AI from the Microsoft Store">
-    <img src="https://get.microsoft.com/images/en-us_dark.svg"
+    <img src="https://developer.microsoft.com/en-us/store/badges/images/English_get-it-from-MS.png"
          alt="Get it from Microsoft"
          height="50" />
   </a>
