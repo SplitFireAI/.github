@@ -1,6 +1,6 @@
-# SplitFire AI — Audio Separator & Stem Splitter
+# SplitFire AI Audio Separator & Stem Splitter
 
-**SplitFire AI** is the fastest, highest-quality AI-powered audio separator and stem splitter. Instantly isolate vocals, instruments, drums, bass, and more from any song — directly on your device. Available on iOS, Android, and Windows.
+**SplitFire AI** is the fastest, highest-quality AI-powered audio separator and stem splitter. Instantly isolate vocals, instruments, drums, bass, and more from any song directly on your device. Available on iOS, Android, and Windows.
 
 ---
 
@@ -14,13 +14,11 @@ Get SplitFire AI on your platform of choice:
          alt="Download on the App Store"
          height="50" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://play.google.com/store/apps/details?id=ai.splitfire.SplitFire" title="Get SplitFire AI on Google Play">
     <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
          alt="Get it on Google Play"
          height="50" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://apps.microsoft.com/detail/9ng2kn8zzl1m?hl=en-US&gl=SE" title="Get SplitFire AI from the Microsoft Store">
     <img src="https://developer.microsoft.com/en-us/store/badges/images/English_get-it-from-MS.png"
          alt="Get it from Microsoft"
