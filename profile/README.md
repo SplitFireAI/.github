@@ -8,23 +8,11 @@
 
 Get SplitFire AI on your platform of choice:
 
-<p align="center">
-  <a href="https://apps.apple.com/se/app/splitfire-ai-audio-separator/id6751143237" title="Download SplitFire AI on the App Store">
-    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"
-         alt="Download on the App Store"
-         height="50" />
-  </a>
-  <a href="https://play.google.com/store/apps/details?id=ai.splitfire.SplitFire" title="Get SplitFire AI on Google Play">
-    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
-         alt="Get it on Google Play"
-         height="50" />
-  </a>
-  <a href="https://apps.microsoft.com/detail/9ng2kn8zzl1m?hl=en-US&gl=SE" title="Get SplitFire AI from the Microsoft Store">
-    <img src="https://developer.microsoft.com/en-us/store/badges/images/English_get-it-from-MS.png"
-         alt="Get it from Microsoft"
-         height="50" />
-  </a>
-</p>
+<a href="https://apps.apple.com/se/app/splitfire-ai-audio-separator/id6751143237" title="Download SplitFire AI on the App Store">Apple AppStore</a>
+
+<a href="https://play.google.com/store/apps/details?id=ai.splitfire.SplitFire" title="Get SplitFire AI on Google Play">Google Play</a>
+
+<a href="https://apps.microsoft.com/detail/9ng2kn8zzl1m?hl=en-US&gl=SE" title="Get SplitFire AI from the Microsoft Store"> Microsoft Store</a>
 
 ---
 
